@@ -1,0 +1,27 @@
+-------wannabe4-------
+
+
+I think I have some hints to his location..maybe in some code words or something..hope you can help me find it..
+
+format : COPS{city} and replace any spaces with underscore.
+
+Author - 43h1
+
+
+-------Score-------
+
+
+Total Solves - 21
+Final Score - 212
+
+
+-------Writeup-------
+
+
+In the same repository 'pr1v4t3' of the GitHub profile of BitForBat we can see a file named location.md. This file started with What three words which led to the website what3words. The end of the file ha text 'toddler.geologist.animated' which on entering in this website gave us the location.
+
+
+-------Flag-------
+
+
+COPS{new_delhi}

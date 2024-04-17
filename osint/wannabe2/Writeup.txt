@@ -1,0 +1,27 @@
+-------wannabe2-------
+
+
+He used to experimaent on graphs and stuff and try to draw shapes..what was the last shape drawn by him ..?
+
+format : COPS{shape}
+
+Author - 43h1
+
+
+-------Score-------
+
+
+Total Solves - 22
+Final Score - 183
+
+
+-------Writeup-------
+
+
+On visiting the GitHub profile of BitForBat we can see repository named as 'pr1v4t3'. This repository contains a file named 'umm.md' which had an equation. On plotting the graph for the equation using 'Desmos' we get heart shape which is our flag.
+
+
+-------Flag-------
+
+
+COPS{heart}

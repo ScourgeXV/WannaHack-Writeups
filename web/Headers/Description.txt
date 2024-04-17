@@ -1,0 +1,29 @@
+-------Headers-------
+
+
+Do you remember we talked about headers?
+
+Well, use them!
+
+Challenge Link: http://ctf.copsiitbhu.co.in:11337/
+
+Author - kn1gh7
+
+
+-------Score-------
+
+
+Total Solves - 21
+Final Score - 212
+
+
+-------Writeup-------
+
+
+On visiting the website, it says "Not an agent of the Secure-Browser". So we change the User Agent in Chrome with the help of 'developer tools' and 'network conditions' from browser default to "Secure-Browser". Upon visiting again it displays "Does not Accept nothing". So we override the header 'Accept' to "Nothing" with the help of a Chrome extention called "Requestly". Upon visiting again, it displays "Connection not secure" so we repeat the above process to override "Connection" to "secure". Upon visiting again, it displays "Want-Flag is not yes". So we create a new header "Want-Flag" and set it to "yes". Upon visiting again, it displays the flag.
+
+
+-------Flag-------
+
+
+COPS{headers_all_the_way}

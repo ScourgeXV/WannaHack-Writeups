@@ -1,0 +1,25 @@
+-------Are You Admin?-------
+
+
+Can you get admin access?
+
+http://ctf.copsiitbhu.co.in:21340/
+
+
+-------Score-------
+
+
+Total Solves - 20
+Final Score - 241
+
+
+-------Writeup-------
+
+
+On visiting the given webpage, a link can be found which redirects to the same webpage. On inspecting the webpage, we can find cookies with "user=guest". Again with the help of Requestly, we override the cookies header to get "user=admin". Refreshing the webpage displays the flag.
+
+
+-------Flag-------
+
+
+COPS{broken_auth_using_cookies_231}

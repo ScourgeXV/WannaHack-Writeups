@@ -1,0 +1,27 @@
+-------Welcome-------
+
+
+Did you read the rules?
+
+https://ctf.copsiitbhu.co.in/rules
+
+Author - kn1gh7
+
+
+-------Score-------
+
+
+Total solves - 27
+Score - 50
+
+
+-------Writeup-------
+
+
+Visit the given website and inspect it. Flag can be seen commented in the Elements section.
+
+
+-------Flag-------
+
+
+COPS{0bv_insp3ct_fl4g}

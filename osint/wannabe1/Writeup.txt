@@ -1,0 +1,29 @@
+-------wannabe1-------
+
+
+This photo is the last evidence of my friend..help me find out more about him..
+
+Whats his github username?
+
+Flag format: COPS{username}
+
+Author - 43h1
+
+
+-------Score-------
+
+
+Total Solves - 22
+Final Score - 183
+
+
+-------Writeup-------
+
+
+On extracting the metadata of the given image using CyberChef, we get the author name as 'Qml0Rm9yQmF0'. This can be decoded with the help of Base64 decoder of dCode to get the username 'BitForBat'.
+
+
+-------Flag-------
+
+
+COPS{BitForBat}

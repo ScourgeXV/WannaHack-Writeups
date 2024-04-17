@@ -1,0 +1,29 @@
+-------Themer2-------
+
+
+Someone told me the previous website was broken :(((
+
+Anyways I made it again :)
+
+http://ctf.copsiitbhu.co.in:21339/
+
+Author - kn1gh7
+
+
+-------Score-------
+
+
+Total Solves - 16
+Final Score - 338
+
+
+-------Writeup-------
+
+
+On looking the code for server, it can be easily noticed that path traversal is made a little bit difficult by adding an if conditon and replace funtion. Therefore we have to enter theme argument such that it passes throught both. Change the theme arguement in URL to "?theme=.../...//flag.txt" so that ../ gets removed and only '.','.' and '/' remains. This gives us the flag.
+
+
+-------Flag-------
+
+
+COPS{path_traversal_yay_291}

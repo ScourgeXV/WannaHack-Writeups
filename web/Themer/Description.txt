@@ -1,0 +1,28 @@
+-------Themer-------
+
+I made a binary calculator yay!
+
+Challenge Link: http://ctf.copsiitbhu.co.in:21338/
+
+NOTICE: Solving this challenge unlocks another challenge
+
+Author - kn1gh7
+
+
+-------Score-------
+
+
+Total Solves - 19
+Final Score - 267
+
+
+-------Writeup-------
+
+
+On looking the code for server, it can be easily noticed that path traversal is possible. Change the theme arguement in URL to "?theme=../flag.txt" to open another web page. Inspect this web page to find th flag commented in the source section.
+
+
+-------Flag-------
+
+
+COPS{path_traversal_yay_1092}

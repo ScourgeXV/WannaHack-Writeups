@@ -1,0 +1,24 @@
+-------wannabe3-------
+
+
+it seems very strange to me that he didnt call me or anything...maybe he tried to send me a message while he was trapped..can you help me in finding it..
+
+Author - 43h1
+
+-------Score-------
+
+
+Total Solves - 22
+Final Score - 183
+
+
+-------Writeup-------
+
+
+In the same repository 'pr1v4t3' of the GitHub profile of BitForBat we can see a file named trapped.md. This file had some text in which it can be noticed that each paragraph ends with dots and dashes. Therefore we can decode this text from Morse Code to get the text 'saveemee'.
+
+
+-------Flag-------
+
+
+COPS{saveemee}

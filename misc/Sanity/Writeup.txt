@@ -1,0 +1,26 @@
+-------Sanity-------
+
+
+Did you join the discord yet? 👀
+
+https://discord.gg/mqzm2XcNVZ
+
+Author - kn1gh7
+
+-------Score-------
+
+
+Total Solves - 23
+Final Score - 133
+
+
+-------Writeup-------
+
+
+The flag is on the title of rules channel of Infosec in the given discord server.
+
+
+-------Flag-------
+
+
+COPS{s4n1ty_ch3ck}
